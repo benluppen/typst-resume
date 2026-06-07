@@ -25,6 +25,11 @@
 #import "company.typ":*
 #import "business.typ":*
 
+/*----------------------*/
+/*Call each imported experience below. 
+  Be sure to put the variable names in the correct order
+  NOTE that all but the last experience import must be surrounded by #block(below:1.5em). This is for spacing purposes, and the the last item does not need it.*/
+/*----------------------*/
 
 #block(below: 1.5em)[#exp-fmt(c-title, c-company, c-period, c-skills, c-experience)]
 #exp-fmt(b-title, b-company, b-period, b-skills, b-experience)
