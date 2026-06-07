@@ -1,5 +1,7 @@
 # Typst Resume Template
 
+<img width="2550" height="2790" alt="resume" src="https://github.com/user-attachments/assets/45dd3658-9551-4bce-affb-f1a34aefdf69" />
+
 ## Requirements
 
 1. Typst CLI (https://github.com/typst/typst)
