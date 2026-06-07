@@ -28,7 +28,9 @@ I recommend installing Tinymist (https://github.com/Myriad-Dreamin/tinymist), a 
 6. Updates to any other section of the template can be made in the `vars.typ` file.
 7. To remove any unwanted secionts, use `//` on any of the section imports at the bottom of `resume.typ` file.
    1. For example, if you did not want the Independant Projects section, comment out the following lines like so:
-`//== Independent Projects
+```
+//== Independent Projects
 //#line()
 
-//#include "project.typ"`
+//#include "project.typ"
+```
