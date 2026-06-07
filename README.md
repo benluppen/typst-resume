@@ -16,5 +16,5 @@ I recommend installing Tinymist (https://github.com/Myriad-Dreamin/tinymist), a 
 1. Clone the repository by running `git clone git@github.com/bluppen/typst-resume` or by downloading the repo .zip folder.
 2. Navigate to the Typst directory and you are now ready to make edits.
 3. You can compile your edits by running `typst compile --font-path ./Open_Sans/static resume.typ`.
-  a. If you would like live updates while editing, run `typst watch --font-path ./Open_Sans/static resume.typ`.
-4. Updates to professional experience sections can be made in the `experience/` folder.
+   1. If you would like live updates while editing, run `typst watch --font-path ./Open_Sans/static resume.typ`.
+5. Updates to professional experience sections can be made in the `experience/` folder.
